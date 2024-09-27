@@ -1,59 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="C:\Users\David\Documents\MyWorkSpace\MyWorkSpace.workspace">
-  <int Value="7" Name="m_selectedTab"/>
-  <wxString Value="C:\Users\David\Documents\MyWorkSpace\MyWorkSpace.workspace" Name="m_workspaceName"/>
+<Session Name="C:\Users\David\Documents\NetBeansProjects\EstructurasDatos_Ejemplos\MyWorkSpace\MyWorkSpace.workspace">
+  <int Value="3" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\David\Documents\NetBeansProjects\EstructurasDatos_Ejemplos\MyWorkSpace\MyWorkSpace.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Users\David\Documents\MyWorkSpace\Ejemplo01\main.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\David\Documents\NetBeansProjects\EstructurasDatos_Ejemplos\MyWorkSpace\Ejemplo09\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="3" Name="CurrentLine"/>
+      <int Value="4" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\David\Documents\MyWorkSpace\Ejemplo02\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\David\Documents\MyWorkSpace\Ejemplo03\main.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\David\Documents\NetBeansProjects\EstructurasDatos_Ejemplos\MyWorkSpace\Ejemplo10\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\David\Documents\MyWorkSpace\Ejemplo04\main.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\David\Documents\NetBeansProjects\EstructurasDatos_Ejemplos\MyWorkSpace\Ejemplo11\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="8" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="C:\Users\David\Documents\MyWorkSpace\Ejemplo05\main.cpp" Name="FileName"/>
-      <int Value="10" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\David\Documents\MyWorkSpace\Ejemplo06\main.cpp" Name="FileName"/>
-      <int Value="14" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\David\Documents\MyWorkSpace\Ejemplo07\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\David\Documents\MyWorkSpace\Ejemplo08\main.cpp" Name="FileName"/>
+      <wxString Value="C:\Users\David\Documents\NetBeansProjects\EstructurasDatos_Ejemplos\MyWorkSpace\Ejemplo12\main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
