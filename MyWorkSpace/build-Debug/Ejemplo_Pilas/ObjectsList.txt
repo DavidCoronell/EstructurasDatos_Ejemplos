@@ -1,0 +1,1 @@
+../build-Debug/Ejemplo_Pilas/NodoPila.cpp.o ../build-Debug/Ejemplo_Pilas/Pila.cpp.o ../build-Debug/Ejemplo_Pilas/main.cpp.o   

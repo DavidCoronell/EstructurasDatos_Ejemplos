@@ -1,4 +1,36 @@
 [{
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\NodoPila.hpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\Pila.cpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\Pila.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\Pila.hpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\Pila.hpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\NodoPila.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\main.cpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\main.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Pilas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13\\Persona.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13\\Persona.hpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13\\main.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo12\\main.cpp",
   "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo12",
   "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo12\\main.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
@@ -22,6 +54,26 @@
   "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo04\\main.cpp",
   "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo04",
   "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo04\\main.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\Cola.hpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\Cola.hpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\Cola.cpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\Cola.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\NodoCola.cpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\NodoCola.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\NodoCola.hpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\NodoCola.hpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\main.cpp",
+  "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola",
+  "command": "clang++ -c C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\main.cpp -o C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo_Cola\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo11\\main.cpp",
   "directory": "C:\\Users\\David\\Documents\\NetBeansProjects\\EstructurasDatos_Ejemplos\\MyWorkSpace\\Ejemplo11",
